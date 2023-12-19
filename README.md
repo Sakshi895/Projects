@@ -1,1 +1,10 @@
-Hello, welcome to my GitHub profile! My name is Sakshi Sharma and I am currently pursuing a Master's in Information Technology at the University of Cincinnati .Before joining my Master's, I was working with Deloitte USI as Technology Analyst as a Java Developer. I am looking for full-time  or internship opportunities starting Jan-2024. Feel free to get in touch to discuss more.
+
+Hello and welcome to my GitHub profile! I'm Sakshi Sharma, currently pursuing a Master's in Information Technology at the University of Cincinnati. Previously, I worked as a Java Developer at Deloitte USI. In addition to my professional experience, I have a solid foundation in Data Analysis and Machine Learning through my academic endeavors.
+
+As I approach the culmination of my studies, I am actively seeking internship or full-time opportunities starting in January 2024. I am eager to apply my skills and contribute to meaningful projects. Feel free to reach out if you have any potential opportunities or if you'd like to discuss my qualifications further.
+
+
+
+
+
+
